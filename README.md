@@ -1,3 +1,9 @@
+使用IntelliJ IDEA
+
+Marven
+
+Java 21
+
 登入
 http://localhost:8080/login?logout
 
